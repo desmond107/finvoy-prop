@@ -1,0 +1,30 @@
+[
+    {
+        "place":"Los Angeles",
+        "img":"team-img-1",
+        "city":"team-bg4-jpg",
+        "extra":"",
+        "id":"losangeles"
+    },
+    {
+        "place":"New York",
+        "img":"team-img-2",
+        "city":"",
+        "extra":"mt-sm-0 mt-4",
+        "id":"newyork"
+    },
+    {
+        "place":"Madrid",
+        "img":"team-img-3",
+        "city":"",
+        "extra":"mt-lg-0 mt-4",
+        "id":"madrid"
+    },
+    {
+        "place":"Paris",
+        "img":"team-img-4",
+        "city":"",
+        "extra":"mt-lg-0 mt-4",
+        "id":"paris"
+    }
+]

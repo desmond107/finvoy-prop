@@ -1,0 +1,20 @@
+[
+    {
+        "icon": "fa-home",
+        "headline":"Get a house",
+        "text":"Get a luxary house in the potent surbabs of Nairobi city.",
+        "class":"find-house"
+    },
+    {
+        "icon": "fa-building",
+        "headline":"Get apartment",
+        "text":"Get an ample apartment that suits your taste and comfort.",
+        "class":"find-apartment"
+    },
+    {
+        "icon": "fa-university",
+        "headline":"buy & rent",
+        "text":"Buy and rent land in the leafy serbabs of Nairobi.",
+        "class":"find-land"
+    }
+]
